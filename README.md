@@ -1,0 +1,1 @@
+## A website aimed to help the community find dentists who accept Medi-Cal 
